@@ -1,0 +1,35 @@
+            SpeedScript Cheat Sheet
+              ||| prefix CTRL |||
+     
+     FILE        EDIT             GO     
+     ----        ----            ----    
+     F7 load    I insert       HOME begin
+     F8 save    RUN tab        Z    end  
+      @:NAME to E cut ahead    F1 > w  
+      overwrite D cut behind   F2 < w  
+     V verify   R paste buff   F3 > s  
+     4 disp dir K empty buff   F4 < s  
+     W # words  ↑H search      F5 > p  
+     B bg color ↑J replace     F6 < p  
+     L fg color ↑G replace all         
+                H search next  PROGRAM 
+     FORMAT     J replace next -------      
+     ------     A swap case    CLR clear    
+     CTRL £     X transpose    RESTORE exit 
+      l left                   CTRL = memory
+      l right                              
+      c center+-....b bottom   OUTPUT      
+      e edge right..w pause    ------       
+      t vert pos....h header   P print     
+      b bottom......f footer  ↑P save ascii
+      # output page #                
+      1-9=N define char as ASCII val 
+      U toggle underline             
+                                     
+     DISK
+     ---- 
+     (up ↑) disk cmd prefix     
+      SD2IEC or JiffyDOS command
+      RET disk state            
+      i0,i1 init drive                                                     
+
