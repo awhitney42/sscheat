@@ -1,7 +1,8 @@
 # SpeedScript Cheat Sheet
-SpeedScript 3.2 for Commodore 64
 
-Compatible with 40 column screens and printers.
+This repository contains Adam Whitney's SpeedScript Cheat Sheet for use with SpeedScript 3.2 for the Commodore 64.
+
+It is compatible with 40 column screens and printers.
 
 Contents:
 ---------
